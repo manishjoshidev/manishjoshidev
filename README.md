@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Joshi</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559](https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishjoshidev&label=Profile%20views&color=0e75b6&style=flat" alt="manishjoshidev" /> </p>
 
