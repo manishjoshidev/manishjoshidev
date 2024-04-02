@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Joshi</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img align="right" alt="coding" width="300" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fnl.pinterest.com%2Fpin%2Fvia-giphy--392868767495353889%2F&psig=AOvVaw02aIpYw3f3UsGBqWtpV-m1&ust=1712171577574000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi-wKiepIUDFQAAAAAdAAAAABAJ](https://www.bing.com/th/id/OGC.1ebf35b2f894f900f5936ddf9e64ee7c?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fHolyZheng%2fholyZheng-blog%2fmaster%2fimages%2fcoding.gif&ehk=YhCWWU0yzLBgAlYdocBl24v2HfL%2fCWLJyt1sZMecJZg%3d)](https://www.bing.com/th/id/OGC.dbb58bcf9c5aeb5a0d019c5d6653ecf8?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f926537%2fscreenshots%2f8768655%2fmedia%2f0eb8fcc9f2b8a55c589cfabd6cc89d94.gif&ehk=1r%2bmBjrNIkr03qb8bSuscwLQKYZB4OJbxsPuFD9o0pw%3d)"/> 
+<img align="right" alt="coding" width="300" src="https://www.bing.com/th/id/OGC.dbb58bcf9c5aeb5a0d019c5d6653ecf8?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f926537%2fscreenshots%2f8768655%2fmedia%2f0eb8fcc9f2b8a55c589cfabd6cc89d94.gif&ehk=1r%2bmBjrNIkr03qb8bSuscwLQKYZB4OJbxsPuFD9o0pw%3d"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishjoshidev&label=Profile%20views&color=0e75b6&style=flat" alt="manishjoshidev" /> </p>
 
