@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **SpringBoot MicroServies**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react,Nodejs**
 
 - 💬 Ask me about **java**
 
