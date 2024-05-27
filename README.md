@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **java**
 
-- 📫 How to reach me **manishjoc108@gmail.com**
+- 📫 How to reach me **manishjoc108@gmail.com** ** joshi8763@gmail.com**
 
 
 
