@@ -16,7 +16,7 @@
 
 
 
-- ⚡ Fun fact **I am Groot...**
+- ⚡ Fun fact **I am Lazy...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
