@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react,Nodejs**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Full Stack **
 
 - 📫 How to reach me **manishjoc108@gmail.com** ** joshi8763@gmail.com**
 
