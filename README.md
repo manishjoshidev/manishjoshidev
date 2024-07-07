@@ -16,7 +16,7 @@
 
 
 
-- ⚡ Fun fact **I am Lazy...**
+- ⚡ Fun fact **I am Bot...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
