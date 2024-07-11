@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **SpringBoot MicroServies**
 
-- 🌱 I’m currently learning **react,Nodejs**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Full Stack **
 
