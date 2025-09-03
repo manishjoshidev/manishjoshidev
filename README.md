@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Full Stack **
+- 💬 Ask me about **Java **
 
 - 📫 How to reach me **manishjoc108@gmail.com** ** joshi8763@gmail.com**
 
